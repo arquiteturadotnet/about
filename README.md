@@ -1,4 +1,4 @@
-# Arquitetura de Software .NET  - [Facebook](https://www.facebook.com/groups/arquiteturadotnet/) | [Telegram](https://t.me/dotnetbr)
+# Arquitetura de Software .NET  - [Facebook](https://www.facebook.com/groups/arquiteturadotnet/) | [Telegram](https://t.me/arquiteturadotnet)
 
 Propósito e Regras do Grupo
 
