@@ -16,6 +16,7 @@ Inscrição/Ingresso:
 🚫 Profissionais que não sejam da área de desenvolvimento.
 
 Conteúdo:
+
 ✅ Arquitetura de Software
 
 ✅ Arquitetura de Solução
