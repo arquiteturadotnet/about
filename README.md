@@ -43,9 +43,10 @@ Cidade / Região
 📣 Caso sua publicação seja removida e você acredita que seguiu essas regras à risca, por favor entre em contato com um dos administradores do grupo.
 
 
-## ATENÇÃO ❗️
+## AVISOS ❗️
 
-### A partir de 29/03 a publicação de vagas deve ocorrer somente no canal [Dev Stream - Vagas](https://t.me/devstream_vagas)
+### A partir de 29/03 a publicação de vagas (No Telegram) deve ocorrer somente no canal [Dev Stream - Vagas](https://t.me/devstream_vagas) exceto para as vagas de arquietos citadas no início do texto.
+
 - 💬 Tente manter o foco do assunto do grupo
 - Este grupo não é sobre EHI nem HTTP Injector!
 - 👨‍🏫👩‍🏫Tenha paciência com dúvidas e perguntas de iniciantes
