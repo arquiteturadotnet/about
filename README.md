@@ -7,7 +7,7 @@ Para não ser extremamente abrangente, prioritariamente tratamos de temas ao red
 
 Também estamos no telegram: @arquiteturadotnet
 
-Inscrição/Ingresso:
+## Inscrição/Ingresso:
 
 ✅ Profissionais de desenvolvimento (O perfil do LINKEDIN é usado para a validação do perfil, eu pessoalmente valido cada perfil).
 
@@ -15,7 +15,7 @@ Inscrição/Ingresso:
 
 🚫 Profissionais que não sejam da área de desenvolvimento.
 
-Conteúdo:
+## Conteúdo:
 
 ✅ Arquitetura de Software
 
