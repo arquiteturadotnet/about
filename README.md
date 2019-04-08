@@ -1,12 +1,64 @@
 # Arquitetura de Software .NET  - [Facebook](https://www.facebook.com/groups/arquiteturadotnet/) | [Telegram](https://t.me/dotnetbr)
 
-## REGRAS ❌ 
-- ❌ Proibido qualquer forma de propaganda (inclusive sobre grupos e canais) que não se encaixem no tema de .NET **OU** que não tenham sido negociada com pelo menos um dos administradores do grupo
-- ❌ Proibido o compartilhamento de conteúdo pornográfico
-- ❌ Proibido desrespeitar ou insultar outros membros
-- ❌ Proibido conteúdo político
-- ❌ Pirataria: Serão banidos aqueles que solicitarem, fornecerem ou até apoiarem pirataria
-- ❌ Proibido imagens ou mensagens repetidas (floods)
+Propósito e Regras do Grupo
+
+O grupo destina-se a troca de conhecimento sobre arquitetura de software/solução. 
+Para não ser extremamente abrangente, prioritariamente tratamos de temas ao redor de Microsoft .NET, .NET Core e afins.
+
+Também estamos no telegram: @arquiteturadotnet
+
+Inscrição/Ingresso:
+
+✅ Profissionais de desenvolvimento (O perfil do LINKEDIN é usado para a validação do perfil, eu pessoalmente valido cada perfil).
+
+🚫 Fakes, Empresas, Instituições e/ou Perfis de Grupos não são permitidos.
+
+🚫 Profissionais que não sejam da área de desenvolvimento.
+
+Conteúdo:
+✅ Arquitetura de Software
+
+✅ Arquitetura de Solução
+
+✅ Design de Solução
+
+✅ Perguntas e dúvidas
+
+✅ Patterns
+
+✅ Novidades sobre Desenvolvimento e Infraestrutura (desde que permeie o tema DEV)
+
+✅ Open Source
+
+‼Há diversos grupos destinados a falar sobre desenvolvimento, C#, ASP.NET, Web em geral, boa parte do dia-a-dia desses grupos está na resolução de problemas do dia-a-dia, solúveis pelas documentações que deveríamos ler, ou até mesmo já resolvidos no Stack Overflow. 
+
+🚫 Conteúdo não relacionado diretamente aos temas do grupo, são excluídos. Se seu conteúdo for excluído, a partir da exclusão, seus posts passam a ser previamente moderados. Isso quer dizer que seus novos posts não serão publicados sem revisão/aprovação manual (ainda estou vendo por quanto tempo).
+
+🚫 Posts sobre Política, Religião ou Futebol
+
+🚫 Sobre Pirataria: Serão banidos aqueles que solicitarem, fornecerem ou até apoiarem pirataria
+
+🚫 Proibido qualquer forma de propaganda (inclusive sobre grupos e canais) que não se encaixem no tema de .NET **OU** que não tenham sido negociada com pelo menos um dos administradores do grupo
+
+🚫 Proibido o compartilhamento de conteúdo pornográfico
+
+🚫 Proibido desrespeitar ou insultar outros membros
+
+🚫 Proibido conteúdo político
+
+🚫 Pirataria: Serão banidos aqueles que solicitarem, fornecerem ou até apoiarem pirataria
+
+🚫 Proibido imagens ou mensagens repetidas (floods)
+
+‼ 𝐕𝐚𝐠𝐚𝐬: somente para funções e cargos ligados a arquitetura, esse é um grupo de e para arquitetos, a intenção é estarmos na mesma página, para debatermos de forma mais produtiva. Trabalho para que você que quer se posicionar como arquiteto encontre aqui a sua vaga.
+
+‼ Posts duplicados são apagados (evite flood).
+
+Aproveitem o espaço, compartilhem conteúdo, e sejam bem vindos.
+
+PS: 
+[Luiz Carlos Faria] Com o aumento no volume de publicações, estou usando o "curtir" como check de moderação, assim inevitavelmente curtirei minhas próprias publicações.
+
 
 ## Sobre Vagas
 
