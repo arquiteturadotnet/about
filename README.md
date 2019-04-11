@@ -37,8 +37,6 @@ Também estamos no telegram: @arquiteturadotnet
 
 🚫 Posts sobre Política, Religião ou Futebol
 
-🚫 Sobre Pirataria: Serão banidos aqueles que solicitarem, fornecerem ou até apoiarem pirataria
-
 🚫 Proibido qualquer forma de propaganda (inclusive sobre grupos e canais) que não se encaixem no tema de .NET **OU** que não tenham sido negociada com pelo menos um dos administradores do grupo
 
 🚫 Proibido o compartilhamento de conteúdo pornográfico
