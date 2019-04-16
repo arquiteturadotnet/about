@@ -63,7 +63,7 @@ PS:
 
 ### Restrições
 
-O grupo é um grupo técnico e não um grupo de busca de recolocação, portanto embora tenhamos no nosso quadro alguns dos melhores devs do Brasil, é de interesse que só sejam postadas nesse grupo, vagas ligada a Arquitetura de Software e Soluções. Há centenas de outros grupos que permite publicações aleatórias de vagas, os interessados estão nesses grupos. Queremos ter a certeza de que, se você viu uma vaga no nosso grupo, essa vaga é uma vaga para arquitetura. A escassez de vagas para esse perfil, nos ajuda no posicionamento consistente em relação ao propósito do grupo.
+O grupo é um grupo técnico e não um grupo de busca de recolocação, portanto embora tenhamos no nosso quadro alguns dos melhores devs do Brasil, é de interesse que só sejam postadas nesse grupo, vagas ligada a Arquitetura de Software e Soluções. Há centenas de outros grupos que permitem publicações aleatórias de vagas, os interessados estão nesses grupos. Queremos ter a certeza de que, se você viu uma vaga no nosso grupo, essa vaga é uma vaga para arquitetura. A escassez de vagas para esse perfil, nos ajuda no posicionamento consistente em relação ao propósito do grupo.
 
 A publicação de vagas nos grupos Arquitetura de Software | .NET do Facebook e Telegram são restritas aos seguintes cargos/funções:
 * Arquiteto de Software
