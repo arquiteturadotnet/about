@@ -49,7 +49,7 @@ Também estamos no telegram: @arquiteturadotnet
 
 🚫 Proibido imagens ou mensagens repetidas (floods)
 
-🚫 Caso você esteja participando de um processo seletivo e quer usar o grupo para "burlar" o processo, não faça. Você será banido caso seja descoberto.
+🚫 Caso você esteja participando de um processo seletivo e quer usar o grupo para "burlar" o processo, não faça. Haja com ética, estude e caso não esteja preparado, ok, estude mais para estar na próxima oportunidade.
 
 ‼ 𝐕𝐚𝐠𝐚𝐬: somente para funções e cargos ligados a arquitetura, esse é um grupo de e para arquitetos, a intenção é estarmos na mesma página, para debatermos de forma mais produtiva. Trabalho para que você que quer se posicionar como arquiteto encontre aqui a sua vaga.
 
