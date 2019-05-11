@@ -32,3 +32,6 @@ Mentir no linkedin custa caro profissionalmente, assim essa é a melhor platafor
 
 # OBS
 (1) Entendemos que não conseguimos aferir autenticidade somente pelo fato do currículo estar no linkedin, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no linkedin é maior do que a vontade de participar do grupo.
+
+
+Visite as [regras](https://github.com/arquiteturadotnet/about/blob/master/README.md) para saber sobre as políticas do grupo.
