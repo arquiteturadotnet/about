@@ -12,7 +12,7 @@ Aqui está seu feedback: https://github.com/arquiteturadotnet/about/blob/master/
 
 Você solicitou a entrada no grupo **Arquitetura de Software | .NET**
 
-**Status: Timeout de Preenchimento / Recusada**
+**Status: Recusado (Dados incompletos)**
 
 Aqui está seu feedback: https://github.com/arquiteturadotnet/about/blob/master/solicitacao_expirada.md
 
