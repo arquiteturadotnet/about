@@ -31,7 +31,7 @@ Usamos linkedin para filtrar profissionais de RH, Coaches, programadores eventua
 Mentir no linkedin custa caro profissionalmente, assim essa é a melhor plataforma para assegurarmos a autenticidade dos currículos analisados (1).
 
 # OBS
-(1) Entendemos que não conseguimos aferir autenticidade somente pelo fato do currículo estar no linkedin, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no linkedin é maior do que a vontade de participar do grupo.
+(1) Entendemos que não conseguimos aferir autenticidade somente pelo fato do currículo estar no linkedin, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no linkedin é menor do que a vontade de participar do grupo.
 
 
 # Políticas
