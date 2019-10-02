@@ -34,3 +34,8 @@ Mentir no linkedin custa caro profissionalmente, assim essa é a melhor platafor
 
 # Não esqueça de ler as políticas do grupo
 Visite as [regras](https://github.com/arquiteturadotnet/about/blob/master/README.md) para saber sobre as políticas do grupo.
+
+
+Prossiga para o [Facebook](https://www.facebook.com/groups/arquiteturadotnet/) para solicitar sua participação.
+
+No telegram, não há validação alguma, embora tenhamos políticas e regras para postagem. [Telegram](https://t.me/arquiteturadotnet)
