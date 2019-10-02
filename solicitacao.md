@@ -26,7 +26,7 @@ Na solicitação você verá 3 campos:
 
 ## Linkedin
 
-Usamos linkedin para filtrar profissionais de RH, Coaches, programadores eventuais, estagiários e profissionais que não sejam desenvolvedores. Que fique claro que não há nada contra esses perfis, só não se enquadram no propósito do grupo.
+Usamos linkedin para filtrar profissionais de RH, Coaches, programadores eventuais, estagiários e profissionais que não sejam desenvolvedores ou sejam desenvolvedores que não estão associados às tecnologias Microsoft. Que fique claro que não há nada contra esses perfis, só não se enquadram no propósito do grupo.
 
 Mentir no linkedin custa caro profissionalmente, assim essa é a melhor plataforma para assegurarmos a autenticidade dos currículos analisados (1).
 
