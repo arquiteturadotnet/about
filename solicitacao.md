@@ -39,7 +39,7 @@ Usamos linkedin para avaliar cada candidato. Filtramos profissionais de RH, Coac
 Mentir no linkedin custa caro profissionalmente (1).
 
 ## OBS
-(1) Entendemos que LinkedIn não assegura autenticidade dos perfis, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no LinkedIn é menor do que a vontade de participar do grupo.
+(1) Entendemos que LinkedIn não assegura autenticidade dos perfis. Esse é o melhor que podemos fazer por hora. Nossos resultados são fantásticos desde o início da adoção dessa estratégia. Em geral ímpeto de mentir no LinkedIn é menor do que a vontade de participar do grupo, embora recentemente estamos acompanhando diversos perfis suspeitos.
 
 
 ## Não esqueça de ler as políticas do grupo
