@@ -1,12 +1,24 @@
 # Solicitação (facebook)
 
-## Requisitos
+## Objetivo
 
-Para participar do grupo é fundamental que você contribua e colabore com as discussões, e para isso é necessário ter maturidade profissional. Não conseguimos aferir muita coisa, mas usamos o linkedin para pelo menos aferir se seu perfil é um perfil técnico.
+O grupo Arquitetura de Software .NET tem como missão ser um grupo onde possamos defender ideias, defender pontos de vista antagônicos. É um espaço para a discórdia respeitosa. Defendendo Ideias. O grupo é formado por desenvolvedores e arquitetos e alguns dos principais nomes do cenário nacional. 
+Nós não nos propomos a resolver probleminhas de projetos, nós não queremos concorrer com grupos de ASP .NET, C#, Xamarim. Nosso objetivo é ter discussões de alto nível sobre arquitetura e soluções.
 
 ## Qualidade & Afinidade
 
-Não buscamos quantidade, buscamos qualidade. Buscamos discussões que produzam reflexão, e conteúdo relevante para todos.
+Como um grupo destinado à defesa e discussões de ideias, não estamos buscando quantidade. Não temos o interesse de crescer muito. Nós somos um grupo de nicho, destinado ao diálogo, buscamos qualidade em detrimento de quantidade.
+
+## Processo de Inscrição
+
+Como meio de aferir o mínimo de aderência ao skill do grupo, realizamos uma triagem que filtra perfis que não estão alinhados com nossas diretrizes. 
+Não estar alinhado não quer dizer que seja pior ou melhor, só quer dizer que não está aderente. Não fazemos juízo de valor a respeito dos currículos avaliados.
+
+Como meio de aferir o mínimo de aderência ao skill do grupo, realizamos uma triagem que filtra perfis que não estão alinhados com nossas diretrizes. 
+Não estar alinhado não quer dizer que seja pior ou melhor, só quer dizer que não está aderente. Não fazemos juízo de valor a respeito dos currículos avaliados.
+Essa triagem é feita por meio do Linkedin. 
+Isso quer dizer que você precisa nos enviar, no ato da solicitação de participação, A URL do seu perfil do linkedin, para que possamos analisar seu perfil.
+
 
 ## Solicitação
 
