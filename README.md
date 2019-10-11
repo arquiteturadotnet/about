@@ -9,7 +9,7 @@ Também estamos no telegram: @arquiteturadotnet
 
 ## Inscrição/Ingresso:
 
-✅ Profissionais de desenvolvimento (O perfil do LINKEDIN é usado para a validação do perfil, eu pessoalmente valido cada perfil).
+✅ Profissionais de desenvolvimento (O perfil do LinkedIn é usado para a validação do perfil, eu pessoalmente valido cada perfil).
 
 🚫 Fakes, Empresas, Instituições e/ou Perfis de Grupos não são permitidos.
 
