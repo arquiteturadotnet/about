@@ -36,7 +36,7 @@ Na solicitação você verá 3 campos:
 
 Usamos linkedin para avaliar cada candidato. Filtramos profissionais de RH, Coaches, programadores eventuais, estagiários e profissionais que não sejam desenvolvedores ou sejam desenvolvedores que não estão associados às tecnologias Microsoft. **Que fique claro que não há nada contra esses perfis, só não se enquadram no propósito do grupo.**
 
-Mentir no linkedin custa caro profissionalmente, assim essa é a melhor plataforma para assegurarmos a autenticidade dos currículos analisados (1).
+Mentir no linkedin custa caro profissionalmente (1).
 
 ## OBS
 (1) Entendemos que LinkedIn não assegura autenticidade dos perfis, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no LinkedIn é menor do que a vontade de participar do grupo.
