@@ -1,5 +1,7 @@
 # Solicitação (facebook)
 
+## LEIA COM ATENÇÃO
+
 ## Objetivo
 
 O grupo Arquitetura de Software .NET tem como missão ser um grupo onde possamos defender ideias, defender pontos de vista antagônicos. É um espaço para a discórdia respeitosa. Defendendo Ideias. O grupo é formado por desenvolvedores e arquitetos e alguns dos principais nomes do cenário nacional. 
