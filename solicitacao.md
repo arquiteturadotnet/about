@@ -1,17 +1,13 @@
 # Solicitação (facebook)
 
-## LEIA COM ATENÇÃO
+## ⚠️LEIA COM ATENÇÃO ⚠️
 
-## Objetivo
+## 🎯 Objetivo
 
 O grupo Arquitetura de Software .NET tem como missão ser um grupo onde possamos defender ideias, defender pontos de vista antagônicos. É um espaço para a discórdia respeitosa. Defendendo Ideias. O grupo é formado por desenvolvedores e arquitetos e alguns dos principais nomes do cenário nacional. 
 Nós não nos propomos a resolver probleminhas de projetos, nós não queremos concorrer com grupos de ASP .NET, C#, Xamarim. Nosso objetivo é ter discussões de alto nível sobre arquitetura e soluções.
 
-## Qualidade & Afinidade
-
-Como um grupo destinado à defesa e discussões de ideias, não estamos buscando quantidade. Não temos o interesse de crescer muito. Nós somos um grupo de nicho, destinado ao diálogo, buscamos qualidade em detrimento de quantidade.
-
-## Processo de Inscrição
+## ⚖️Processo de Inscrição
 
 Como meio de aferir o mínimo de aderência ao skill do grupo, realizamos uma triagem que filtra perfis que não estão alinhados com nossas diretrizes. 
 Não estar alinhado não quer dizer que seja pior ou melhor, só quer dizer que não está aderente. Não fazemos juízo de valor a respeito dos currículos avaliados.
@@ -22,21 +18,21 @@ Essa triagem é feita por meio do Linkedin.
 Isso quer dizer que você precisa nos enviar, no ato da solicitação de participação, A URL do seu perfil do linkedin, para que possamos analisar seu perfil.
 
 
-## Solicitação
+## ✏️ Solicitação
 
 Na solicitação você verá 3 campos: 
 - No primeiro temos um aviso, que serve de alerta para que entenda o processo.
 - No segundo, é solicitada sua confirmação de que entendeu as regras.
 - No terceiro (e último) campo, solicitamos a Url do seu perfil no linkedin
 
-## Atendimento
+## ⌛️ Atendimento
 
 - Solicitações com preenchimento completo, podem ser aceitas em segundos, mas o prazo é de 24h.
 - O solicitante tem 1 hora para preencher os 3 campos, a partir de 1 hora, sua inscrição pode ser removida.
 - O processo de avaliação do perfil consiste na análise do perfil no linkedin. 
-- 100% dos perfís são verificados manualmente.
+- 🛡 100% dos perfís são verificados manualmente.
 
-## Linkedin
+## 🔎Linkedin
 
 Usamos linkedin para avaliar cada candidato. Filtramos profissionais de RH, Coaches, programadores eventuais, estagiários e profissionais que não sejam desenvolvedores ou sejam desenvolvedores que não estão associados às tecnologias Microsoft. **Que fique claro que não há nada contra esses perfis, só não se enquadram no propósito do grupo.**
 
