@@ -30,9 +30,9 @@ Na solicitação você verá 3 campos:
 ## Atendimento
 
 - Solicitações com preenchimento completo, podem ser aceitas em segundos, mas o prazo é de 24h.
-- O solicitante tem 1 hora para preencher os dados, a partir de 1 hora, sua inscrição pode ser removida.
+- O solicitante tem 1 hora para preencher os 3 campos, a partir de 1 hora, sua inscrição pode ser removida.
 - O processo de avaliação do perfil consiste na análise do perfil no linkedin. 
-- 100% dos perfís são verificados.
+- 100% dos perfís são verificados manualmente.
 
 ## Linkedin
 
