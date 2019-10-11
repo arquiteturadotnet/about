@@ -41,13 +41,13 @@ Usamos linkedin para avaliar cada candidato. Filtramos profissionais de RH, Coac
 Mentir no linkedin custa caro profissionalmente, assim essa é a melhor plataforma para assegurarmos a autenticidade dos currículos analisados (1).
 
 ## OBS
-(1) Entendemos que não conseguimos aferir autenticidade somente pelo fato do currículo estar no linkedin, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no linkedin é menor do que a vontade de participar do grupo.
+(1) Entendemos que LinkedIn não assegura autenticidade dos perfis, no entanto é o melhor que podemos fazer e temos muito sucesso desde o início dessa estratégia. Em geral ímpeto de mentir no LinkedIn é menor do que a vontade de participar do grupo.
 
 
 ## Não esqueça de ler as políticas do grupo
 Visite as [regras](https://github.com/arquiteturadotnet/about/blob/master/README.md) para saber sobre as políticas do grupo.
 
-## Participar
+# Participar
 
 Prossiga para o [Facebook](https://www.facebook.com/groups/arquiteturadotnet/) para solicitar sua participação.
 
