@@ -15,6 +15,8 @@ Também estamos no telegram: @arquiteturadotnet
 
 🚫 Profissionais que não sejam da área de desenvolvimento.
 
+🚫 Profissionais que não tenham background em C# / >NET
+
 ## Conteúdo:
 
 ✅ Arquitetura de Software
